@@ -1,4 +1,4 @@
-## Hi, I'm Ava Drexler-Amey!
+## Hi, I'm Ava!
 
 ### Communicator. Creator. Digital Storyteller.
 
