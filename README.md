@@ -1,4 +1,4 @@
-## Hi, I'm Ava!
+# 👋 Hi, I'm Ava!
 
 ### Communicator. Creator. Digital Storyteller.
 
@@ -6,23 +6,31 @@ I'm a student at James Madison University studying in Sociology with a passion f
 
 ## About Me
 
-- Sociology Studies major at James Madison University
-- Digital Studies minor
-- Writing minor
-- Division I student-athlete
-- Student-athlete leader interested in public relations and communication
-- Interested in social media, branding, and digital content
-- Passionate about content creation and digital storytelling
-- I enjoy using communication to connect people and build community
+- 🎓 Sociology Studies major at James Madison University
+- 💻 Digital Studies minor
+- ✍️ Writing minor
+- 🏑 Division I student-athlete
+- 📣 Student-athlete leader interested in public relations and communication
+- 📱 Interested in social media, branding, and digital content
+- 🎥 Passionate about content creation and digital storytelling
+- 🤝 I enjoy using communication to connect people and build community
 
 ## What I'm Interested In
   
-~ Social Media  
-~ Digital Media  
-~ Writing & Storytelling  
-~ Sports Communication  
-~ Branding & Content Creation
+📣 Public Relations  
+📱 Social Media  
+🎥 Digital Media  
+✍️ Writing & Storytelling  
+🏑 Sports Communication  
+🎨 Branding & Content Creation
 
+## ⭐ My X-Factor
+
+- 📖 Storytelling — turning ideas and experiences into content people connect with
+- 🎨 Creativity — finding new and interesting ways to communicate ideas
+- 🏆 Leadership — bringing energy, communication, and teamwork to everything I do
+- 💻 Digital Media — combining communication and creativity to create engaging content
+- 🔄 Adaptability — balancing academics, athletics, and creative projects while adjusting to new challenges
 
 ### Athlete + Communicator
 
@@ -31,7 +39,7 @@ Being a Division I student-athlete has taught me that communication is about mor
 I bring that same mindset to digital storytelling, social media, and creative projects.
 
 
-## Contact
+## 📬 Contact
 
 📧 **Email:** ava.drexleramey@gmail.com
 
