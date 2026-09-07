@@ -49,4 +49,4 @@ I bring that same mindset to digital storytelling, social media, and creative pr
 
 
 
-![JMU Logo](images/images.png "Screenshot of the app")
+![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXlfCVhaejil5SGW0f7dVYC_Z7JnrwRGXSRdNRMQlDfg&s=10 "GitHub Logo")
