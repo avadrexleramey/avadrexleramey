@@ -49,3 +49,4 @@ I bring that same mindset to digital storytelling, social media, and creative pr
 
 
 
+![JMU Logo](images/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxVrEOvgp5-VmG5dH3nRfTV2zPUIQ-5IOOL_rGBzKZw&s=10 "Screenshot of the app")
