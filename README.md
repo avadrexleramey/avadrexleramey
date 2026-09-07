@@ -49,4 +49,4 @@ I bring that same mindset to digital storytelling, social media, and creative pr
 
 
 
-![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXlfCVhaejil5SGW0f7dVYC_Z7JnrwRGXSRdNRMQlDfg&s=10 "GitHub Logo")
+![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_cYNFkSxP2dF48s5Rmli6mVCo4XIIwfww9F3XLOeXg&s=10 "GitHub Logo")
