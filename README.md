@@ -49,4 +49,3 @@ I bring that same mindset to digital storytelling, social media, and creative pr
 
 
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
