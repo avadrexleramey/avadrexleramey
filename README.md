@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ava!
 
-### Communicator. Creator. Digital Storyteller.
+
 
 I'm a student-athelte at James Madison University studying in Sociology with a minor in Digital Studies. I have a passion for digital media, storytelling, and connecting people through communication. I'm interested in building a career in digital media, social media, and sports communication.
 
