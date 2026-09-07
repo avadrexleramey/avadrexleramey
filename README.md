@@ -46,3 +46,7 @@ I bring that same mindset to digital storytelling, social media, and creative pr
 💼 **LinkedIn:** https://www.linkedin.com/in/ava-drexler-amey-b165a3400/
 
 📱 **Instagram:** https://www.instagram.com/ava/
+
+
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
