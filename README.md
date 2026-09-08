@@ -48,5 +48,3 @@ I bring that same mindset to digital storytelling, social media, and creative pr
 📱 **Instagram:** https://www.instagram.com/ava/
 
 
-
-![JMU LOGO](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_cYNFkSxP2dF48s5Rmli6mVCo4XIIwfww9F3XLOeXg&s=10 "JMU Logo")
